@@ -10,9 +10,9 @@ I'm a passionate software engineer and blockchain enthusiast. Explore my GitHub 
 
 ## StackOverflow stats
 
-<img height="160px"
+[<img height="160px"
   src="https://stackoverflow-card.vercel.app/?userID=9739129&theme=dracula"
-/>
+/>](https://stackoverflow.com/users/9739129/nash11)
 
 Thanks for stopping by! Let's build something awesome together! 🚀
 
