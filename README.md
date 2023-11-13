@@ -9,12 +9,17 @@
 I'm a passionate software engineer and blockchain enthusiast. Explore my GitHub repositories to see some of my latest projects.
 
 ## StackOverflow stats
-
-<a href="https://stackoverflow.com/users/9739129/nash11" target="_blank">
-  <img height="160px"
-    src="https://stackoverflow-card.vercel.app/?userID=9739129&theme=dracula"
+<picture>
+  <source
+    srcset="https://stackoverflow-card.vercel.app/?userID=9739129&theme=tomorrow"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-</a>
+  <source
+    srcset="https://stackoverflow-card.vercel.app/?userID=9739129&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img height="160px" src="https://stackoverflow-card.vercel.app/?userID=9739129&theme=dracula" />
+</picture>
 
 Thanks for stopping by! Let's build something awesome together! 🚀
 
